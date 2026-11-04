@@ -1,0 +1,2 @@
+# Resumes are served only through download_resume.php (after an access check).
+Require all denied

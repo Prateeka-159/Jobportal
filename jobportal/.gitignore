@@ -1,0 +1,2 @@
+uploads/resumes/*
+!uploads/resumes/.gitkeep
