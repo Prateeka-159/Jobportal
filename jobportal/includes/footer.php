@@ -4,6 +4,6 @@
         &copy; <?= date('Y') ?> <?= e(APP_NAME) ?> &middot; Online Job Portal with Resume Management System
     </div>
 </footer>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="<?= e(url('assets/vendor/bootstrap.bundle.min.js')) ?>"></script>
 </body>
 </html>
